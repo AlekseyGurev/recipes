@@ -1,0 +1,69 @@
+.container {
+	margin-right: 15px;
+	padding: 24px;
+	background-color: white !important;
+}
+
+.description {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	padding: 24px;
+}
+
+.descriptionList {
+	width: 369px;
+	list-style-type: none;
+	margin-bottom: 30px;
+}
+
+.descriptionItem:not(:last-child) {
+	margin-bottom: 14px;
+}
+
+.descriptionText {
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.containerSelects {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	border: none;
+	margin-bottom: 10px;
+}
+
+.label {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.labelText {
+	display: flex;
+	align-items: center;
+	justify-content: end;
+	width: 110px;
+	text-align: end;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	font-style: bold;
+}
+
+.select {
+	width: 100%;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+}
+
+.resetButton {
+	padding-left: 0;
+}
+
+.textGoodLuck {
+	margin-bottom: 20px;
+}
