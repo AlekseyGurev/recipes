@@ -4,7 +4,7 @@
 - ввести команду (sudo) git clone https://github.com/AlekseyGurev/recipes.git
 - перерейти в папку с приложением cd recipes
 - далее запустить команду (sudo) yarn install для установки всех зависимостей
-- далее запустить приложения командой (sudo) yarn start
+- далее запустить приложение командой (sudo) yarn start
 
 открыть в браузере страницу http://localhost:3000/
 
