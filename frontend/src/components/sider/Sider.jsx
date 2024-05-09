@@ -23,7 +23,7 @@ export function Sider({
 		<Layout.Sider className={styles.container} width="25%">
 			<div className={styles.description}>
 				<img
-					src="../../../src/assets/img/mainImage.webp"
+					src="./frontend/src/assets/img/mainImage.webp"
 					width="369"
 					height="160"
 					alt="картинка"

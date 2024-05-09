@@ -1,0 +1,22 @@
+.container {
+	display: flex;
+	gap: 5px;
+	align-items: center;
+}
+
+.stars {
+	height: 22px;
+	width: 75px;
+}
+
+.easy {
+	background-image: url('/frontend/src/assets/img/starsEasy.svg');
+}
+
+.medium {
+	background-image: url('/frontend/src/assets/img/starsMedium.svg');
+}
+
+.hard {
+	background-image: url('/frontend/src/assets/img/starsHard.svg');
+}

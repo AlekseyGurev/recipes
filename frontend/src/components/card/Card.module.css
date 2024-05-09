@@ -60,6 +60,6 @@
 	align-items: center;
 	height: 22px;
 	padding-left: 25px;
-	background-image: url('../../../assets/img/clock.svg');
+	background-image: url('/frontend/src/assets/img/clock.svg');
 	background-repeat: no-repeat;
 }
